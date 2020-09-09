@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb://pukar123:pukar123@shopping-cart-shard-00-00.6ojju.mongodb.net:27017,shopping-cart-shard-00-01.6ojju.mongodb.net:27017,shopping-cart-shard-00-02.6ojju.mongodb.net:27017/pukar123?ssl=true&replicaSet=atlas-uc3hi2-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
